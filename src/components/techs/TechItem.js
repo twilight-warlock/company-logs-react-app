@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 const TechItem = ({ tech }) => {
   return (
-    <li key={tech.id} className="collection-item">
+    <li className="collection-item">
       <div>
         {tech.firstName} {tech.lastName}
         <a href="#@" className="secondary-content">
