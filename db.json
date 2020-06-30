@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "message": "Need to fix connectivity issue at workstation 009",
-      "attention": true,
-      "tech": "Vidhi",
-      "date": "2020-06-30T12:15:09.572Z",
-      "id": 1
-    },
-    {
-      "message": "System crashed because of server error at workstation 002",
+      "id": 1,
+      "message": "Fixed connectivity issue at workstation 010",
       "attention": false,
       "tech": "Devansh",
-      "date": "2020-06-30T12:17:15.448Z",
-      "id": 2
+      "date": "2020-06-30T21:31:14.630Z"
+    },
+    {
+      "id": 2,
+      "message": "System crashed because of server error at workstation 002",
+      "attention": true,
+      "tech": "Vidhi",
+      "date": "2020-06-30T14:55:37.341Z"
     }
   ],
   "techs": [
