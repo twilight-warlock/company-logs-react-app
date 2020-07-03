@@ -1,26 +1,21 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Fixed connectivity issue at workstation 010",
-      "attention": false,
-      "tech": "Devansh",
-      "date": "2020-06-30T21:31:14.630Z"
-    },
-    {
       "id": 2,
       "message": "System crashed because of server error at workstation 002",
       "attention": true,
+      "tech": "Devansh Shah",
+      "date": "2020-07-03T13:36:41.806Z"
+    },
+    {
+      "message": "Connectivity issue fixed",
+      "attention": false,
       "tech": "Vidhi Shah",
-      "date": "2020-07-03T13:23:15.234Z"
+      "date": "2020-07-03T13:36:32.220Z",
+      "id": 3
     }
   ],
   "techs": [
-    {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
     {
       "id": 2,
       "firstName": "Sam",
