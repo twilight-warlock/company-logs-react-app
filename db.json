@@ -11,8 +11,8 @@
       "id": 2,
       "message": "System crashed because of server error at workstation 002",
       "attention": true,
-      "tech": "Sam Smith",
-      "date": "2020-07-03T13:10:26.076Z"
+      "tech": "Vidhi Shah",
+      "date": "2020-07-03T13:23:15.234Z"
     }
   ],
   "techs": [
@@ -35,6 +35,11 @@
       "firstName": "Devansh",
       "lastName": "Shah",
       "id": 4
+    },
+    {
+      "firstName": "Vidhi",
+      "lastName": "Shah",
+      "id": 5
     }
   ]
 }
